@@ -25,4 +25,3 @@ describe "any_phrase" do
   end
 end
 
-Princess
